@@ -16,7 +16,7 @@ namespace DataSecurity
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PasswordForm());
+            Application.Run(new Form1());
         }
     }
 }
